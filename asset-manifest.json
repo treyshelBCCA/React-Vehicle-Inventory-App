@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Vehicle-Inventory-App/static/css/main.e6c13ad2.css",
+    "main.js": "/React-Vehicle-Inventory-App/static/js/main.05da9390.js",
+    "static/js/453.8eef2c85.chunk.js": "/React-Vehicle-Inventory-App/static/js/453.8eef2c85.chunk.js",
+    "index.html": "/React-Vehicle-Inventory-App/index.html",
+    "main.e6c13ad2.css.map": "/React-Vehicle-Inventory-App/static/css/main.e6c13ad2.css.map",
+    "main.05da9390.js.map": "/React-Vehicle-Inventory-App/static/js/main.05da9390.js.map",
+    "453.8eef2c85.chunk.js.map": "/React-Vehicle-Inventory-App/static/js/453.8eef2c85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.05da9390.js"
+  ]
+}
