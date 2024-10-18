@@ -14,7 +14,7 @@ function CarList({ cars, onDeleteCar, onUpdateCar }) {
             car={car}
             onDelete={() => onDeleteCar(car.id)}
             onUpdate={onUpdateCar}
-            onCreate={onCreateCar}
+            // onCreate={onCreateCar}
           />
         ))}
       </div>
